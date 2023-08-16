@@ -8,9 +8,9 @@
 </div>
 <br>
 
-- [1. Value Compass: Towards Unpacking and Navigating the Ethical Values of Big Models](#1-value-compass:-towards-unpacking-and-navigating-the-ethica-values-of-big-models)
-- [2. Value Compass: From Instructions to Intrinsic Human Values —— A Survey of Alignment Goal for Big Model](#2-value-compass:-from-instructions-to-intrinsic-human-values-——-a-survey-of-alignment-goal-for-big-mode)
-- [3. Value Compass: On the Essence and Prospect —— An Investigation of Alignment Approach for Big Model](#3-value-compass:-on-the-essence-and-prospect-——-an-investigation-of-alignment-approach-for-big-model)
+- [1. Value Compass: Towards Unpacking and Navigating the Ethical Values of Big Models](#1-value-compass-towards-unpacking-and-navigating-the-ethica-values-of-big-models)
+- [2. Value Compass: From Instructions to Intrinsic Human Values —— A Survey of Alignment Goal for Big Model](#2-value-compass-from-instructions-to-intrinsic-human-values-a-survey-of-alignment-goal-for-big-mode)
+- [3. Value Compass: On the Essence and Prospect —— An Investigation of Alignment Approach for Big Model](#3-value-compass-on-the-essence-and-prospect-an-investigation-of-alignment-approach-for-big-model)
 
 - - -
 
