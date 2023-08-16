@@ -78,5 +78,10 @@ Big models, exemplified by Large Language Models (LLMs), are those pre-trained o
 
 
 <p align="center">
+<<<<<<< HEAD
 <img src="./imgs/alignment_targets.png" style="width: 80%;"/>
 </p>
+=======
+<img src="./imgs/alignment_targets.png" style="width: 100%;"/>
+</p>
+>>>>>>> c864392d865b180dedb040f434993e7267c30fba
