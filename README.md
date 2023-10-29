@@ -33,8 +33,7 @@ Microsoft Research Asia
 
 
 <p align="center">
-[<a href="https://arxiv.org/pdf/2307.11760.pdf">Paper</a>]
-[<a href="https://arxiv.org/pdf/2307.11760.pdf">Github</a>]
+[<a href="https://arxiv.org/pdf/2310.17551.pdf">Paper</a>]
 </p>
 
 <details>
@@ -67,7 +66,7 @@ Microsoft Research Asia
 
 
 <p align="center">
-[<a href="https://arxiv.org/pdf/2307.11760.pdf">Paper</a>]
+[<a href="https://arxiv.org/pdf/2308.12014.pdf">Paper</a>]
 [<a href="https://github.com/ValueCompass/Alignment-Goal-Survey">Github</a>]
 </p>
 
