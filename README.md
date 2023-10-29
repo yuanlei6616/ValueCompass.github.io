@@ -8,13 +8,13 @@
 </div>
 <br>
 
-- [1. Value Compass: Towards Unpacking and Navigating the Ethical Values of Big Models](#1-value-compass-towards-unpacking-and-navigating-the-ethica-values-of-big-models)
+- [1. Value Compass: Unpacking the Ethical Value Alignment in Big Models](#1-value-compass-unpacking-the-ethica-value-alignment-in-big-models)
 - [2. Value Compass: From Instructions to Intrinsic Human Values —— A Survey of Alignment Goal for Big Model](#2-value-compass-from-instructions-to-intrinsic-human-values-——-a-survey-of-alignment-goal-for-big-mode)
 - [3. Value Compass: On the Essence and Prospect —— An Investigation of Alignment Approach for Big Model](#3-value-compass-on-the-essence-and-prospect-——-an-investigation-of-alignment-approach-for-big-model)
 
 - - -
 
-## 1. Value Compass: Towards Unpacking and Navigating the Ethical Values of Big Models 
+## 1. Value Compass: Unpacking the Ethical Value Alignment in Big Models
 <p align="center">
   Xiaoyuan Yi,
   Jing Yao, 
@@ -39,12 +39,12 @@ Microsoft Research Asia
 
 <details>
 <summary>Abstract</summary>
-This position paper explores the emerging challenges presented in the era of Big Models, with a focus on Large Language Models and ethical value alignment. Big Models have greatly advanced AI's ability to understand, generate, and manipulate information and content, enabling numerous applications. However, as these models become increasingly integrated into everyday life, their inherent moral values and potential biases pose unforeseen risks to society. This paper provides an overview of the risks and challenges associated with Big Models, surveys existing AI ethics guidelines, and examines the ethical implications arising from the limitations of these models. Taking a normative ethics perspective, we propose a reassessment of recent normative guidelines, highlighting the importance of collaborative efforts in academia to establish a unified and universal AI ethics framework. Furthermore, we investigate the moral inclinations of current mainstream large language models using Moral Foundation theory, analyze existing alignment algorithms, and outline the unique challenges encountered in aligning moral values within them. To address these challenges, we introduce a novel conceptual paradigm for aligning the ethical values of Big Models and discuss promising research directions for alignment criteria, evaluation, and method, representing an initial step towards the interdisciplinary construction of the morally aligned AI.
+Big models have greatly advanced AI’s ability to understand, generate, and manipulate information and content, enabling numerous applications. However, as these models become increasingly integrated into everyday life, their inherent ethical values and potential biases pose unforeseen risks to society. This paper provides an overview of the risks and challenges associated with big models, surveys existing AI ethics guidelines, and examines the ethical implications arising from the limitations of these models. Taking a normative ethics perspective, we propose a reassessment of recent normative guidelines, highlighting the importance of collaborative efforts in academia to establish a unified and universal AI ethics framework. Furthermore, we investigate the moral inclinations of current mainstream LLMs using the Moral Foundation theory, analyze existing alignment algorithms, and outline the unique challenges encountered in aligning ethical values within them. To address these challenges, we introduce a novel conceptual paradigm for aligning the ethical values of big models and discuss promising research directions for alignment criteria, evaluation, and method, representing an initial step towards the interdisciplinary construction of the ethically aligned AI.
 </details>
 
-<!-- <p align="center">
-<img src="./imgs/emotion.png" style="width: 70%;"/>
-</p> -->
+<p align="center">
+<img src="./imgs/ethics.png" style="width: 100%;"/>
+</p>
 
 - - -
 
@@ -78,10 +78,12 @@ Big models, exemplified by Large Language Models (LLMs), are those pre-trained o
 
 
 <p align="center">
-<<<<<<< HEAD
-<img src="./imgs/alignment_targets.png" style="width: 80%;"/>
-</p>
-=======
 <img src="./imgs/alignment_targets.png" style="width: 100%;"/>
 </p>
->>>>>>> c864392d865b180dedb040f434993e7267c30fba
+
+
+## 3. Value Compass: On the Essence and Prospect —— An Investigation of Alignment Approach for Big Model
+
+<p align="center">
+  To be released.
+</p>  
