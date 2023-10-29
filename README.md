@@ -10,7 +10,7 @@
 
 - [1. Value Compass: Unpacking the Ethical Value Alignment in Big Models](#1-value-compass-unpacking-the-ethica-value-alignment-in-big-models)
 - [2. Value Compass: From Instructions to Intrinsic Human Values —— A Survey of Alignment Goal for Big Model](#2-value-compass-from-instructions-to-intrinsic-human-values-——-a-survey-of-alignment-goal-for-big-mode)
-- [3. Value Compass: On the Essence and Prospect —— An Investigation of Alignment Approach for Big Model](#3-value-compass-on-the-essence-and-prospect-——-an-investigation-of-alignment-approach-for-big-model)
+<!-- - [3. Value Compass: On the Essence and Prospect —— An Investigation of Alignment Approach for Big Model](#3-value-compass-on-the-essence-and-prospect-——-an-investigation-of-alignment-approach-for-big-model)-->
 
 - - -
 
@@ -80,9 +80,10 @@ Big models, exemplified by Large Language Models (LLMs), are those pre-trained o
 <img src="./imgs/alignment_targets.png" style="width: 100%;"/>
 </p>
 
-
+<!--
 ## 3. Value Compass: On the Essence and Prospect —— An Investigation of Alignment Approach for Big Model
 
 <p align="center">
   To be released.
 </p>  
+-->
