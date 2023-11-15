@@ -10,8 +10,8 @@
 
 - [1. Value Compass: Unpacking the Ethical Value Alignment in Big Models](#1-value-compass-unpacking-the-ethica-value-alignment-in-big-models)
 - [2. Value Compass: From Instructions to Intrinsic Human Values —— A Survey of Alignment Goal for Big Model](#2-value-compass-from-instructions-to-intrinsic-human-values-——-a-survey-of-alignment-goal-for-big-mode)
-<!-- - [3. Value Compass: On the Essence and Prospect —— An Investigation of Alignment Approach for Big Model](#3-value-compass-on-the-essence-and-prospect-——-an-investigation-of-alignment-approach-for-big-model)-->
 - [3. Value FULCRA: Mapping Large Language Models to the Multidimensional Spectrum of Basic Human Values](#3-value-fulcra-mapping-large-language-models-to-the-multidimensional-spectrum-of-basic-human-values)
+<!-- - [3. Value Compass: On the Essence and Prospect —— An Investigation of Alignment Approach for Big Model](#3-value-compass-on-the-essence-and-prospect-——-an-investigation-of-alignment-approach-for-big-model)-->
 
 - - -
 
@@ -123,6 +123,7 @@ The rapid advancement of Large Language Models (LLMs) has attracted much attenti
 <img src="./imgs/value_space.png" style="width: 100%;"/>
 Figure 1: Illustration of (a) downstream risks in existing datasets and (b) our proposed basic value paradigm
 </p>
+
 
 <p align="center">
 <img src="./imgs/visualization.png" style="width: 100%;"/>
