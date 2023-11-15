@@ -11,6 +11,7 @@
 - [1. Value Compass: Unpacking the Ethical Value Alignment in Big Models](#1-value-compass-unpacking-the-ethica-value-alignment-in-big-models)
 - [2. Value Compass: From Instructions to Intrinsic Human Values —— A Survey of Alignment Goal for Big Model](#2-value-compass-from-instructions-to-intrinsic-human-values-——-a-survey-of-alignment-goal-for-big-mode)
 <!-- - [3. Value Compass: On the Essence and Prospect —— An Investigation of Alignment Approach for Big Model](#3-value-compass-on-the-essence-and-prospect-——-an-investigation-of-alignment-approach-for-big-model)-->
+- [3. Value FULCRA: Mapping Large Language Models to the Multidimensional Spectrum of Basic Human Values](#3-value-fulcra-mapping-large-language-models-to-the-multidimensional-spectrum-of-basic-human-values)
 
 - - -
 
@@ -87,3 +88,43 @@ Big models, exemplified by Large Language Models (LLMs), are those pre-trained o
   To be released.
 </p>  
 -->
+
+## 3. Value FULCRA: Mapping Large Language Models to the Multidimensional Spectrum of Basic Human Values
+
+<p align="center">
+  Jing Yao, 
+  Xiaoyuan Yi,
+  Xiting Wang,
+  Yifan Gong,
+  Xing Xie
+</p>  
+
+<p align="center">
+Microsoft Research Asia
+</p>
+
+<p align="center">
+{jingyao, xiaoyuanyi, v-yifangong, xing.xie}@microsoft.com
+</p>
+
+
+<p align="center">
+[<a>Paper</a>]
+[<a>Dataset to be released</a>]
+</p>
+
+<details>
+<summary>Abstract</summary>
+The rapid advancement of Large Language Models (LLMs) has attracted much attention to value alignment for their responsible development. However, how to define values in this context remains a largely unexplored question. Existing work mainly follows the Helpful, Honest, Harmless principle and specifies values as risk criteria formulated in the AI community, e.g., fairness and privacy protection, suffering from poor clarity, adaptability and transparency. Inspired by basic values in humanity and social science across cultures, this work proposes a novel basic value alignment paradigm and introduces a value space spanned by basic value dimensions. All LLMs’ behaviors can be mapped into the space by identifying the underlying values, possessing the potential to address the three challenges. To foster future research, we apply the representative Schwartz’s Theory of Basic Values as an initialized example and construct FULCRA, a dataset consisting of 5k (LLM output, value vector) pairs. Our extensive analysis of FULCRA reveals the underlying relation between basic values and LLMs’ behaviors, demonstrating that our approach not only covers existing mainstream risks but also anticipates possibly unidentified ones. Additionally, we present an initial implementation of the basic value evaluation and alignment, paving the way for future research in this line.
+</details>
+
+
+<p align="center">
+<img src="./imgs/value_space.png" style="width: 100%;"/>
+Figure 1: Illustration of (a) downstream risks in existing datasets and (b) our proposed basic value paradigm
+</p>
+
+<p align="center">
+<img src="./imgs/visualization.png" style="width: 100%;"/>
+Figure 4: (a) Visualization of LLM outputs in the value space, and we observe that 1) basic values can indicate a demarcation between safe and unsafe behaviors; 2) different safety risks can be clarified in the value space; and 3) basic values can describe new types of downstream risks. (b) Correlation between basic value dimensions and specific safety risks.
+</p>
